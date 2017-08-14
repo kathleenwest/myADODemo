@@ -9,4 +9,4 @@ App.config (Connection String Example)
 Form1.cs
 Program.cs (Main Program)
 Picture of the Application
-Visual Studio Solution (42 MB): myADODemo_VSS
+Visual Studio Solution: myADODemo_VSS
