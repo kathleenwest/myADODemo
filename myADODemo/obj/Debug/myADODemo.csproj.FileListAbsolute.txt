@@ -1,0 +1,19 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\bin\Debug\myADODemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\bin\Debug\myADODemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\bin\Debug\myADODemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\obj\Debug\myADODemo.csprojResolveAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\obj\Debug\myADODemo.Form1.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\obj\Debug\myADODemo.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\obj\Debug\myADODemo.csproj.GenerateResource.Cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\obj\Debug\myADODemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myADODemo\myADODemo\obj\Debug\myADODemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\bin\Debug\myADODemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\bin\Debug\myADODemo.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\bin\Debug\myADODemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\obj\Debug\myADODemo.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\obj\Debug\myADODemo.Form1.resources
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\obj\Debug\myADODemo.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\obj\Debug\myADODemo.csproj.GenerateResource.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\obj\Debug\myADODemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\obj\Debug\myADODemo.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myADODemo\myADODemo\obj\Debug\myADODemo.pdb
